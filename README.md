@@ -32,7 +32,7 @@ There were four main catagories that were checked - married, single, divorced an
 
 When there was a comparison of the ages of different people with different maritial statuses, the results gave one opinion on why Widowed people chose not to have Mobile Money. All other Maritial statuses contained people who were really young. The Widowed graph shows that there are more widowed people who are older. This could pose a question: Widowed people do not have Mobile Money because they are older and are not as Tech Savvy? Or could it be that they much rather continue with conventional methods?
 
-![](all_ages_vs_widow_ages.png)
+![](graphs/all_ages_vs_widow_ages.png)
 
 ### Gender
 
