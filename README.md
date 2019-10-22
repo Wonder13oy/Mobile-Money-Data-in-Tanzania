@@ -26,7 +26,8 @@ The aim is find and visulise the suitable target audience Mobile Money can be ai
 
 There were four main catagories that were checked - married, single, divorced and widows. It was found that single people had the highest percentage of people with Mobile Money with 62.6%, with Married people coming second with 56.1%. The most unusual discovery was that Widowed people actually had the lowest number of people with Mobile Money, at 38.1%. There were a lot of reasons of why this number was so low and one of them was age.
 
-<!-- Add Graph Here -->
+![](graphs/relationships.png)
+![](graphs/single.png) ![](graphs/divorce.png) ![](graphs/widow.png) ![](graphs/married.png)
 
 ### Ages
 
@@ -38,19 +39,19 @@ When there was a comparison of the ages of different people with different marit
 
 It was found that there are more males with mobile money than there are females with mobile money. 31.4 % of Males from the total population have Mobile Money, whilst 24.8% of Females have Mobile Money. The average ages of males and females with Mobile Money is 37 and 35 respectively. Yet there were more female widows as compared to their male counterparts. A staggering 86.4% of widows are female and of which only 33.2% have Mobile Money. This poses the question: Is Mobile Money mostly advertised towards males?
 
-<!-- Add Graph Here -->
+![](graphs/gender_of_widows.png) ![](graphs/gender_of_divorced.png) ![](graphs/gender_of_married.png)
 
 ### Sources of Income
 
 Most of the widows recieve their source of income from trading or selling products. The only time you find a higher ratio of people with Mobile Money are people who earn income through wages, investments, pensions and services. The rest of the streams of income have more people without Mobile Money. Does this mean that the people with low quality jobs are not interested in Mobile Money? Could the Mobile Money companies neglecting the working class even though there is more of them?
 
-<!-- Add Graph Here -->
+![](graphs/widow_sources_of_income.png)
 
 ### Region
 
 Most people are located near water sources such as oceans or rivers. This is in correlation with that a lot of people have earn income through trading. Since they are located in areas that make it easier for them to transport their goods (via shippment). People with Mobile Money are mostly found in regions Tanzania that have the highest GDP's. These regions are Muanza Region (GDP of $13,789 mil) and Shinyanga Region (GDP of $8,431 mil). It shows that Mobile Money companies tend to aim at people with hight quality jobs.
 
-<!-- Add Graph Here -->
+![](graphs/map_tanz_without_mm.png) ![](graphs/map_tanz_with_mm.png)
 
 ## Conclusion
 
